@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-         My First React app with Docker, GIThub, CICD and deploy on AWS server
+         My First React app with Docker, GIThub, CICD and deploy on AWS server.
         </p>
       </header>
     </div>
