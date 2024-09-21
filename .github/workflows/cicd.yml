@@ -3,7 +3,7 @@ name: Deploy React Application
 on: 
   push:
     branches:
-      - mern-ec2-docker
+      - react-ec2-docker
 
 jobs:
   build:
